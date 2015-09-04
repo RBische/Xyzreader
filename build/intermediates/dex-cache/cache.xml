@@ -2,18 +2,53 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-c5c9bc1770793be1524ec1e7c76ec85387b65c6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-d89962766002c111193cd90673a5480be2bb7d9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a527cd5d9aa10f1a387cbd1c4c426fff5022a376">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-0664917051cf2a0166fa3ee6ffa5c3dd90a3ab5f.jar" />
+    </item>
+    <item
         jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\libs\volley.jar"
         jumboMode="false"
-        revision="22.0.1"
+        revision="23.0.1"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
         <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley-b3c04cdf60e6ac698050eadc0f6eeb63d5bd777d.jar" />
     </item>
     <item
-        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-1eb1b72604575d321ce9954bf7b8c5da43fe6652.jar" />
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-80dc81a53fff48f2499909bce9c8fa126b44cefd.jar" />
+    </item>
+    <item
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-3b215ea0fce12df8fe19fe220a2cb99ab4fe77dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-199f01cf75e9829c6a992318610fb9241ac17dba.jar" />
     </item>
     <item
         jar="C:\Users\biche\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
@@ -23,60 +58,46 @@
         <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-f72c3b1c75ba2e583244e1bfada6b7f8856e115a.jar" />
     </item>
     <item
-        jar="C:\Users\biche\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-c7fd0eb6adabeced8dc46747f89272236797809d.jar" />
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-91a0febc2eb0c52c322c71b77cb5eefdbea4671a.jar" />
     </item>
     <item
-        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jar="C:\Users\biche\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-6e6cb3e7b4fa133c72888d15e8d6926830df90ce.jar" />
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-478726495497643f108bf3009eb6e92ae38303c2.jar" />
     </item>
     <item
-        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-4a83da3ee85fa54bc89ca84d4e53a6300d550de5.jar" />
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-4cb73531adfc9aa0076575ff0a28c9c20c1a5d15.jar" />
     </item>
     <item
-        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\libs\volley.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-b6ac6f180eddb42849e0fad60e33b37c45fedee1.jar" />
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley-b3c04cdf60e6ac698050eadc0f6eeb63d5bd777d.jar" />
     </item>
     <item
-        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\classes.jar"
+        jar="C:\Users\biche\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-09e5e757ab0a9fde13ba1c98f7f0fed83cabe475.jar" />
+        revision="23.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-f72c3b1c75ba2e583244e1bfada6b7f8856e115a.jar" />
     </item>
     <item
-        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-2a74bfa527bf2a475b491790db673abc1b96f59c.jar" />
-    </item>
-    <item
-        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-151460779f97ffa99dda2cd7733481be6ab64ffb.jar" />
-    </item>
-    <item
-        jar="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7bd4acbaf1702693c2312439ea343b003975c479.jar" />
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\biche\Google Drive\Perso Informatique\NanodegreeCourses\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-e1c29838611691f66b7251033083380efddeac04.jar" />
     </item>
 
 </items>
