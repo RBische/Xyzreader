@@ -22,4 +22,5 @@
     <color name="theme_accent">#FF80AB</color>
     <color name="ltgray">#ff121212</color>
     <color name="overlay_action_bar">#77d3d3d3</color>
+    <color name="nearly_white">#f0f0f0</color>
 </resources>
