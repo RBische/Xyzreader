@@ -24,6 +24,6 @@
     </style>
 
     <style name="Theme.Bacon.Detail">
+        <item name="colorPrimary">@color/overlay_action_bar</item>
     </style>
-
 </resources>
